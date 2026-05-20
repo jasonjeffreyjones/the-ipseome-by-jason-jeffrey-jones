@@ -1,10 +1,17 @@
-# Jason Jeffrey Jones' Identity Trends
-Web tools, datasets and code for exploring identity change in the United States.
+# The Ipseome by Jason Jeffrey Jones
 
-The goal of this project was to create datasets of unprecedented magnitude for the study of personal identity.  Another aim was to make the data accessible and approachable to researchers of all kinds.  I used the methods of computational social science to collect, organize and summarize millions of humans’ self-descriptions.  It is my hope a new generation of social science scholars will make use of these resources to develop and test precise, quantitative models of identity and identity change over the lifespan.
+**The Ipseome by Jason Jeffrey Jones** is a public project exploring identity and self-description at scale.  I seek to make known the structure of individuals' self-concepts.
 
-Explore with the web tool: [Jason Jeffrey Jones Identity Trends V2](https://jasonjones.ninja/jason-jeffrey-jones-identity-trends-v2/)
+Read more about ipseology at [Ipseology Central](https://jasonjones.ninja/ipseology-central/).
 
-Download the data: [ngram prevalence data within bios of US Twitter users 2012-2023](https://osf.io/download/z7b8j)
+## License
 
-Keep up with new development at [Ipseology Central](https://jasonjones.ninja/ipseology-central/)
+Unless otherwise noted, the contents of this repository are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+SPDX-License-Identifier: CC-BY-NC-SA-4.0
+
+See `LICENSE` for details.
+
+## Citation
+
+Please cite this repository using the **Cite this repository** button on GitHub, or use the metadata in `CITATION.cff`.

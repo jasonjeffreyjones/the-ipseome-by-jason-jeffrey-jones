@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it using the metadata below."
+title: "The Ipseome by Jason Jeffrey Jones"
+type: dataset
+
+authors:
+  - family-names: Jones
+    given-names: Jason Jeffrey
+    affiliation: "Jason Jeffrey Jones Productions"
+
+repository-code: "https://github.com/jasonjeffreyjones/the-ipseome-by-jason-jeffrey-jones"
+url: "https://jasonjones.ninja/ipseology-central/blog/the-ipseome.html"
+abstract: "The Ipseome is a collection of public, open, free datasets created by Dr. Jason Jeffrey Jones."
+keywords:
+  - ipseology
+  - identity
+  - self-description
+  - computational social science
+  - surveys
+
+license: "CC-BY-NC-SA-4.0"
+date-released: "2026-05-20"
